@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+const primaryColor = Color(0xFF000000);
+const secondaryColor = Color(0xFF5485F6);
+const textColor = Color(0xFFFFFFFF);
+const textColor2 = Color(0xFFBDBDBD);
+const textColor3 = Color(0xFF5485F6);
+const buttonColor = Color(0xFF2C68F5);
+const textfieldColor = Color(0xFF505050);
+const textfieldColor2 = Color(0xFF919090);
+const onlineColor = Color(0x9189FC7D);
+const likeColor = Color(0x91F50606);
